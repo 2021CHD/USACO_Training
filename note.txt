@@ -1,0 +1,7 @@
+以下题目存在双文件读入。（按字典序排列）
+
+checker   |                 Checker Challenge
+lgame     |                       Letter Game
+namenum   |                  Name That Number
+
+这些题目的第二个输入文件在所有测试数据中均相同。

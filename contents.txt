@@ -1,0 +1,318 @@
+以下为 USACO 题库的目录。
+
+Chapter 1 --------------------------------------------- Getting started
+  |
+  +--Section 1.1 ----------------------------------------- Introduction
+  |    |
+  |    +--TEXT(intro) ------------------------------------ Introduction
+  |
+  +--Section 1.2 ------------------ Submitting Soln, Task Types, Ad Hoc
+  |    |
+  |    +--TEXT(grade) ---------------------------- Submitting Solutions
+  |    |
+  |    +--PROB(ride) -------------------------------- Your Ride Is Here
+  |    |
+  |    +--TEXT(probs) --------------------------- Contest Problem Types
+  |    |
+  |    +--TEXT(adhoc) --------------------------------- Ad Hoc Problems
+  |    |
+  |    +--PROB(gift1) ------------------------------ Greedy Gift Givers
+  |    |
+  |    +--PROB(friday) -------------------------- Friday the Thirteenth
+  |    |
+  |    +--PROB(beads) --------------------------------- Broken Necklace
+  |
+  +--Section 1.3 -------------------------------------- Complete Search
+  |    |
+  |    +--TEXT(comp) ---------------------------------- Complete Search
+  |    |
+  |    +--PROB(milk2) ------------------------------------ Milking Cows
+  |    |
+  |    +--PROB(transform) ----------------------------- Transformations
+  |    |
+  |    +--PROB(namenum) ------------------------------ Name That Number
+  |    |
+  |    +--PROB(palsquare) ------------------------- Palindromic Squares
+  |    |
+  |    +--PROB(dualpal) ------------------------------ Dual Palindromes
+  |
+  +--Section 1.4 --------------------------- Greedy, Crafting Solutions
+  |    |
+  |    +--TEXT(greedy) ------------------------------- Greedy Algorithm
+  |    |
+  |    +--PROB(milk) -------------------------------------- Mixing Milk
+  |    |
+  |    +--PROB(barn1) ------------------------------------- Barn Repair
+  |    |
+  |    +--TEXT(craft) ------------------------------- Winning Solutions
+  |    |
+  |    +--PROB(crypt1) ------------------------------ Prime Cryptarithm
+  |    |
+  |    +--PROB(combo) -------------------------------- Combination Lock
+  |    |
+  |    +--PROB(wormhole) ------------------------------------ Wormholes
+  |    |
+  |    +--PROB(skidesign) --------------------------- Ski Course Design
+  |
+  +--Section 1.5 ------------------------------- More Search Techniques
+  |    |
+  |    +--TEXT(rec) ---------------------------- More Search Techniques
+  |    |
+  |    +--PROB(ariprog) ----------------------- Arithmetic Progressions
+  |    |
+  |    +--PROB(milk3) ----------------------------------- Mother's Milk
+  |
+  +--Section 1.6 --------------------------------------- Binary Numbers
+       |
+       +--TEXT(binary) ----------------- Introduction to Binary Numbers
+       |
+       +--PROB(numtri) ------------------------------- Number Triangles
+       |
+       +--PROB(pprime) ------------------------------ Prime Palindromes
+       |
+       +--PROB(sprime) --------------------------------- SuperPrime Rib
+
+Chapter 2 ------------------------------------------- Bigger Challenges
+  |
+  +--Section 2.1 ----------------------------- Graph Theory, Flood Fill
+  |    |
+  |    +--TEXT(graph) ------------------------------------ Graph Theory
+  |    |
+  |    +--TEXT(flood) --------------------------- Flood Fill Algorithms
+  |    |
+  |    +--PROB(castle) ------------------------------------- The Castle
+  |    |
+  |    +--PROB(frac1) ------------------------------- Ordered Fractions
+  |    |
+  |    +--PROB(sort3) ----------------- Sorting A Three-Valued Sequence
+  |    |
+  |    +--PROB(holstein) ---------------------------- Healthy Holsteins
+  |    |
+  |    +--PROB(hamming) --------------------------------- Hamming Codes
+  |
+  +--Section 2.2 ----------------------- Data Structures, Dynamic Prog.
+  |    |
+  |    +--TEXT(ds) ------------------------------------ Data Structures
+  |    |
+  |    +--TEXT(dp) -------------------------------- Dynamic Programming
+  |    |
+  |    +--PROB(preface) ----------------------------- Preface Numbering
+  |    |
+  |    +--PROB(subset) ------------------------------------ Subset Sums
+  |    |
+  |    +--PROB(runround) ---------------------------- Runaround Numbers
+  |    |
+  |    +--PROB(lamps) ------------------------------------- Party Lamps
+  |
+  +--Section 2.3 ------------------------------------------ (All tasks)
+  |    |
+  |    +--PROB(prefix) ----------------------------- The Longest Prefix
+  |    |
+  |    +--PROB(nocows) ---------------------------------- Cow Pedigrees
+  |    |
+  |    +--PROB(zerosum) -------------------------------------- Zero Sum
+  |    |
+  |    +--PROB(money) ----------------------------------- Money Systems
+  |    |
+  |    +--PROB(concom) -------------------------- Controlling Companies
+  |
+  +--Section 2.4 --------------------------------------- Shortest Paths
+       |
+       +--TEXT(sp) ------------------------------------- Shortest Paths
+       |
+       +--PROB(ttwo) --------------------------------- The Tamworth Two
+       |
+       +--PROB(maze1) ------------------------------------- Overfencing
+       |
+       +--PROB(cowtour) ------------------------------------- Cow Tours
+       |
+       +--PROB(comehome) ----------------------------- Bessie Come Home
+       |
+       +--PROB(fracdec) ------------------------- Fractions to Decimals
+
+Chapter 3 -------------------------------------- Techniques more subtle
+  |
+  +--Section 3.1 --------------------------------------- Spanning Trees
+  |    |
+  |    +--TEXT(spantree) ----------------------- Minimal Spanning Trees
+  |    |
+  |    +--PROB(agrinet) -------------------------------------- Agri-Net
+  |    |
+  |    +--PROB(inflate) ------------------------------- Score Inflation
+  |    |
+  |    +--PROB(humble) --------------------------------- Humble Numbers
+  |    |
+  |    +--PROB(contact) --------------------------------------- Contact
+  |    |
+  |    +--PROB(stamps) ----------------------------------------- Stamps
+  |
+  +--Section 3.2 --------------------------------------------- Knapsack
+  |    |
+  |    +--TEXT(knap) -------------------------------- Knapsack Problems
+  |    |
+  |    +--PROB(fact4) -------------------------------------- Factorials
+  |    |
+  |    +--PROB(kimbits) ---------------------------------- Stringsobits
+  |    |
+  |    +--PROB(spin) ---------------------------------- Spinning Wheels
+  |    |
+  |    +--PROB(ratios) ------------------------------------ Feed Ratios
+  |    |
+  |    +--PROB(msquare) --------------------------------- Magic Squares
+  |    |
+  |    +--PROB(butter) ----------------------------------- Sweet Butter
+  |
+  +--Section 3.3 --------------------------------------- Eulerian Tours
+  |    |
+  |    +--TEXT(euler) ---------------------------------- Eulerian Tours
+  |    |
+  |    +--PROB(fence) ------------------------------- Riding The Fences
+  |    |
+  |    +--PROB(shopping) ------------------------------ Shopping Offers
+  |    |
+  |    +--PROB(camelot) --------------------------------------- Camelot
+  |    |
+  |    +--PROB(range) ------------------------------- Home on the Range
+  |    |
+  |    +--PROB(game1) ------------------------------------------ A Game
+  |
+  +--Section 3.4 ------------------------------- Computational Geometry
+       |
+       +--TEXT(geom) --------------------------- Computational Geometry
+       |
+       +--PROB(heritage) ---------------------------- American Heritage
+       |
+       +--PROB(fence9) --------------------------------- Electric Fence
+       |
+       +--PROB(rockers) ------------------------------- Raucous Rockers
+
+Chapter 4 -------------------- Advanced algorithms and difficult drills
+  |
+  +--Section 4.1 ----------------------------------------- Optimization
+  |    |
+  |    +--TEXT(opt) --------------------------- Optimization Techniques
+  |    |
+  |    +--PROB(nuggets) -------------------------------- Beef McNuggets
+  |    |
+  |    +--PROB(fence6) ------------------------------------ Fence Loops
+  |
+  +--Section 4.2 ----------------------------------------- Network Flow
+  |    |
+  |    +--TEXT(flow) ------------------------ "Network Flow" Algorithms
+  |    |
+  |    +--PROB(ditch) -------------------------------- Drainage Ditches
+  |    |
+  |    +--PROB(stall4) ------------------------------ The Perfect Stall
+  |    |
+  |    +--PROB(job) ------------------------------------ Job Processing
+  |
+  +--Section 4.3 ---------------------------------------------- Bignums
+  |    |
+  |    +--TEXT(bignum) ------------------------------------ Big Numbers
+  |    |
+  |    +--PROB(buylow) ----------------------------- Buy Low, Buy Lower
+  |    |
+  |    +--PROB(race3) ------------------------------------- Street Race
+  |    |
+  |    +--PROB(lgame) ------------------------------------- Letter Game
+  |
+  +--Section 4.4 ------------------------------------------ (All tasks)
+       |
+       +--PROB(shuttle) -------------------------------- Shuttle Puzzle
+       |
+       +--PROB(milk6) ------------------------------- Pollutant Control
+       |
+       +--PROB(frameup) -------------------------------------- Frame Up
+
+Chapter 5 ------------------------------------------ Serious challenges
+  |
+  +--Section 5.1 ----------------------------------------- Convex Hulls
+  |    |
+  |    +--TEXT(chtext) ----------------------------------- Convex Hulls
+  |    |
+  |    +--PROB(fc) ----------------------------------- Fencing the Cows
+  |    |
+  |    +--PROB(starry) ----------------------------------- Starry Night
+  |    |
+  |    +--PROB(theme) ---------------------------------- Musical Themes
+  |
+  +--Section 5.2 ---------------------------------------- (Just a task)
+  |    |
+  |    +--PROB(snail) ------------------------------------- Snail Trail
+  |
+  +--Section 5.3 ------------------------------------------- Heuristics
+  |    |
+  |    +--TEXT(heur) ---------------- Heuristics & Approximate Searches
+  |    |
+  |    +--PROB(milk4) ---------------------------------- Milk Measuring
+  |    |
+  |    +--PROB(window) ------------------------------------ Window Area
+  |    |
+  |    +--PROB(schlnet) ---------------------------- Network of Schools
+  |    |
+  |    +--PROB(bigbrn) --------------------------------------- Big Barn
+  |
+  +--Section 5.4 ------------------------------------------ (All tasks)
+  |    |
+  |    +--PROB(tour) -------------------------------------- Canada Tour
+  |    |
+  |    +--PROB(charrec) ------------------------- Character Recognition
+  |    |
+  |    +--PROB(telecow) ----------------------------- TeleCowmunication
+  |
+  +--Section 5.5 ------------------------------------------ (All tasks)
+       |
+       +--PROB(picture) --------------------------------------- Picture
+       |
+       +--PROB(hidden) ------------------------------- Hidden Passwords
+       |
+       +--PROB(twofive) -------------------------------------- Two Five
+
+Chapter 6 -------------------------------------------- Contest Practice
+  |
+  +--Section 6.1 ------------------------------------------ (All tasks)
+  |    |
+  |    +--PROB(vans) -------------------------------------- Postal Vans
+  |    |
+  |    +--PROB(rectbarn) --------------------------- A Rectangular Barn
+  |    |
+  |    +--PROB(cowxor) ---------------------------------------- Cow XOR
+  |
+  +--Section 6.2 ------------------------------------------ (All tasks)
+  |    |
+  |    +--PROB(calfflac) ------------------------------------ Calf Flac
+  |    |
+  |    +--PROB(packrec) ---------------------------- Packing Rectangles
+  |    |
+  |    +--PROB(rect1) --------------------------------- Shaping Regions
+  |
+  +--Section 6.3 ------------------------------------------ (All tasks)
+  |    |
+  |    +--PROB(fence8) ------------------------------------ Fence Rails
+  |    |
+  |    +--PROB(cryptcow) ------------------------------- Cryptcowgraphy
+  |
+  +--Section 6.4 ------------------------------------------ (All tasks)
+  |    |
+  |    +--PROB(prime3) ------------------------------------- The Primes
+  |    |
+  |    +--PROB(fence3) -------------------------------- Electric Fences
+  |    |
+  |    +--PROB(wissqu) ------------------------------ Wisconsin Squares
+  |
+  +--Section 6.5 ------------------------------------------ (All tasks)
+       |
+       +--PROB(latin) ------------------------------- All Latin Squares
+       |
+       +--PROB(fence4) ---------------------------------- Closed Fences
+       |
+       +--PROB(betsy) ------------------------------------ Betsy's Tour
+       |
+       +--PROB(clocks) ------------------------------------- The Clocks
+       |
+       +--PROB(checker) ----------------------------- Checker Challenge
+
+注意：以下题目在 USACO 题库中隐藏，可通过修改网址进入。（按字典序排列）
+
+cowcycle  |                         Cowcycles
+test      |                   Sum the Numbers

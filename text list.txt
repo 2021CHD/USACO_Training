@@ -1,0 +1,24 @@
+以下文本按字典序排列。
+
+adhoc     |                   Ad Hoc Problems
+bignum    |                       Big Numbers
+binary    |                    Binary Numbers
+chtext    |                   2-D Convex Hull
+comp      |                   Complete Search
+craft     |        Crafting Winning Solutions
+dp        |               Dynamic Programming
+ds        |                   Data Structures
+flood     |                        Flood Fill
+flow      |           Network Flow Algorithms
+geom      |            Computational Geometry
+grade     |              Submitting Solutions
+graph     |                      Graph Theory
+greedy    |                  Greedy Algorithm
+heur      |                  Heuristic Search
+intro     |                      Introduction
+knap      |                 Knapsack Problems
+opt       |                      Optimization
+probs     | Programming Contest Problem Types
+rec       |                 Search Techniques
+sp        |                    Shortest Paths
+spantree  |             Minimum Spanning Tree
