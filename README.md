@@ -2,7 +2,7 @@
 
 包括：题面、数据、官方题解。
 
-所有题目均已配置于 [Hydro](https://hydro.ac/d/USACOtraining/) 中，可以提交。
+所有题目均已配置于 [HydroOJ](https://hydro.ac/d/USACOtraining/) 中，可以提交。
 
 内容全部来源于 [USACO 题库官网](https://usaco.training/)。
 
