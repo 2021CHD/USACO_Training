@@ -20,3 +20,4 @@ uid:807375
 
 - 修复题目 `twofive` 原本错误的测试数据。
 - 修复 `note.txt` 原本错误的内容。
+- 修改 `problem list.txt` 中的部分题目名称使其与 `contents.txt` 中的题目名称一致。
