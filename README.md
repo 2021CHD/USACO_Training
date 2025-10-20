@@ -53,15 +53,15 @@ Changelog:
 
 ## July 9th, 2025
 
-- Upload all content.
+- Uploaded all content.
 
 ## July 10th, 2025
 
-- Fix the test data that was originally incorrect for the problem `twofive`.
-- Fix the original erroneous content of `note.txt`.
-- Modify some of the problem names in `problem list.txt` to match the problem names in `contents.txt`.
+- Fixed the test data that was originally incorrect for the problem `twofive`.
+- Fixed the original erroneous content of `note.txt`.
+- Modified some of the problem names in `problem list.txt` to match the problem names in `contents.txt`.
 
 ## October 20th, 2025
 
 - Updated `README.md` and added an English translation for it.
-- Complete the Chinese translation of some of the problems.
+- Completed the Chinese translation of some of the problems.
